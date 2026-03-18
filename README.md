@@ -4,7 +4,7 @@ Proxmox VE homelab running on Intel Xeon E3-1230 V2.
 
 Services:
 - Home Assistant (VM 100) - Smart home automation
-- Nextcloud - Self-hosted cloud storage 
+- Nextcloud - Self-hosted cloud storage (after RAM Upgrade)
 - Vaultwarden - Password manager
 	-> external access: Tailscale (Free Simple) or WireGuard
 
